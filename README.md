@@ -6,7 +6,7 @@ Created by **Lin Hong**, email: eelinhong@ust.hk or lin.hong@tum.de
 
 ## USIS16K dataset
 USIS16K is a large-scale dataset comprising 16,151 high-resolution underwater images collected from diverse real-world settings and covering 158 categories of underwater objects. Each image is annotated with high-quality instance-level salient object masks, representing a significant advance in terms of diversity, complexity, and scalability.  
-Google drive: [USIS16K](https://drive.google.com/file/d/1SIfpJe7rpeL6ZsRzD9ir0mRsKRYehjxb/view?usp=drive_link) is a high quality large-scale dataset for Underwater Salient Instance Segmentation (USIS). **It is free for academic research, not for any commercial purposes**.
+Google drive: [USIS16K](https://drive.google.com/file/d/1SIfpJe7rpeL6ZsRzD9ir0mRsKRYehjxb/view?usp=drive_link). **It is free for academic research, not for any commercial purposes**.
 
 Note: for practical training and reliable test results of deep methods on the USIS16K dataset, there should be enough samples of each category on the training set, validation set (**training set and validation set are merged in TC-USOD baseline**), and test set. Hence we follow the USOD10K split of roughly 7:2:1. Its folder looks like this:
 
