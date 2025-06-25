@@ -10,22 +10,6 @@ Google drive: [USIS16K](https://drive.google.com/file/d/1SIfpJe7rpeL6ZsRzD9ir0mR
 
 Note: for practical training and reliable test results of deep methods on the USIS16K dataset, there should be enough samples of each category on the training set, validation set, and test set. Hence we follow the USIS16K split of roughly 7:2:1. Its folder looks like this:
 
-````
-   Data
-   |-- USIS16K
-   |   |-- USIS16K-TR
-   |   |-- |-- USIS16K-TR-RGB
-   |   |-- |-- USIS16K-TR-GT
-   |   |-- USIS16K-Val
-   |   |-- |-- USIS16K-Val-RGB
-   |   |-- |-- USIS16K-Val-GT
-   |   |-- USIS16K-TE
-   |   |-- |-- USIS16K-TE-RGB
-   |   |-- |-- USIS16K-TE-GT
-````
-
-
-
 ## Benchmark
 We retrained several methods in the fields of object detection and instance segementation in the MMdetection. Here is the qualitative evaluation of the methods.
 Retrained models will provide soon
