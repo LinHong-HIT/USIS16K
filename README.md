@@ -23,11 +23,15 @@ A qualitative evaluation of the 12 representative methods on USIS tasks is shown
 ## Bibliography entry
 If you think our work is helpful, please cite
 ```
-@ARTICLE{10102831,
-  author={Hong, Lin and Wang, Xin and Yihao, Li and Xia, Wang},
-  journal={ArXiv}, 
-  title={USIS16K: High-Quality Dataset for Underwater Salient Instance Segmentation}, 
-  year={2025}}
+@misc{hong2025usis16khighqualitydatasetunderwater,
+      title={USIS16K: High-Quality Dataset for Underwater Salient Instance Segmentation}, 
+      author={Lin Hong and Xin Wang and Yihao Li and Xia Wang},
+      year={2025},
+      eprint={2506.19472},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.19472}, 
+}
 ```
 
 ## Acknowledgement
