@@ -1,6 +1,6 @@
 # USIS16K
 
-Source code and dataset for our paper “**USIS16K: High-Quality Dataset for Underwater Salient Instance Segmentation**” by Lin Hong,  Xin Wang, Yihao Li, and Xia Wang. 
+Source code and dataset for our paper “**[USIS16K: High-Quality Dataset for Underwater Salient Instance Segmentation](https://arxiv.org/abs/2506.19472)**” by Lin Hong,  Xin Wang, Yihao Li, and Xia Wang. 
 
 Created by **Lin Hong**, email: eelinhong@ust.hk 
 
