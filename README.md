@@ -7,7 +7,7 @@ Created by **Lin Hong**, email: eelinhong@ust.hk
 ## USIS16K dataset
 **USIS16K** is a **High-Quality** large-scale dataset consisting of **16,151**  high-resolution underwater images captured from a wide range of real-world marine environments. It encompasses **158**  distinct categories of underwater objects. 
 **Salient objects in each image were identified using eye-tracking data**, and subsequently annotated with high-quality instance-level masks.
-Google drive: [USIS16K](https://drive.google.com/file/d/1SIfpJe7rpeL6ZsRzD9ir0mRsKRYehjxb/view?usp=drive_link). **USIS16K is free for academic research, not for any commercial purposes**.
+Google drive: [USIS16K](https://drive.google.com/file/d/1VBmr2oC4asce4UWNgvnoqkcvFvVrC-Nv/view?usp=drive_link). **USIS16K is free for academic research, not for any commercial purposes**.
 ![](USIS16K.png)
 **Note**: for reliable training and test of deep methods on the USIS16K dataset, there should be enough samples of each category on the training set, validation set, and test set. Hence we follow the USIS16K split of roughly 7:2:1.
 ## Taxonomic System
