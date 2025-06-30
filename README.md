@@ -4,7 +4,7 @@ Source code and dataset for our paper “**[USIS16K: High-Quality Dataset for Un
 
 Created by **Lin Hong**, email: eelinhong@ust.hk 
 
-**We are open to collaboration and are looking for self-motivated students. If you’re interested in this topic, please feel free to contact me via email.**
+**! We are open to collaboration and are looking for self-motivated students. If you’re interested in this topic, please feel free to contact me via email.**
 
 ## USIS16K dataset
 **USIS16K** is a **High-Quality** large-scale dataset consisting of **16,151**  high-resolution underwater images captured from a wide range of real-world marine environments. It encompasses **158**  distinct categories of underwater objects. 
