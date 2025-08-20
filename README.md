@@ -20,7 +20,7 @@ The construction of the USIS16K dataset emphasized diversity and representativen
 We retrained 8 object detection methods and 10 instance segmentation models in the MMDetection, as well as the specialized models WaterMask and USIS-SAM, on the USIS16K dataset. 
 A qualitative evaluation of the 12 representative methods on USIS tasks is shown.
 ![](Compare.png)
-The [retrained models](https://gohkust-my.sharepoint.com/:u:/g/personal/eelinhong_ust_hk/EYjpesHs4KFGhwql-NLkL4wBjWf2PDDP7MYKlKztIG1K3Q?e=FJnxAS), along with their corresponding [predicted saliency maps](https://drive.google.com/file/d/1OPYAsS1ZsR5RsqjJhn4ZXAboa5RHrWXC/view?usp=sharing), will be made publicly available in the near future.
+The [retrained models](https://gohkust-my.sharepoint.com/:u:/g/personal/eelinhong_ust_hk/EYjpesHs4KFGhwql-NLkL4wBjWf2PDDP7MYKlKztIG1K3Q?e=FJnxAS), along with their corresponding [predicted saliency maps](https://gohkust-my.sharepoint.com/:u:/g/personal/eelinhong_ust_hk/EQgBx9VG0NFNjObRQUGCVisBlc0xbWO9pdvOO2KBGSxXgg?e=0f7sGV), will be made publicly available in the near future.
 
 ## Bibliography entry
 If you think our work is helpful, please cite
